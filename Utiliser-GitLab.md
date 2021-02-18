@@ -1,3 +1,14 @@
+Les mains dans la forge 
+
+Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitLab en simulant des cas d'usage de la vie réelle.
+
+
+# Table des matières
+1. [Je commence un projet](#projet)
+2. [Je gère les droits et les utilisateurs](#projet)
+3. [Je configure l'intégration continue](#ci)
+
+# Je commence un projet <a name="introduction"></a>
 ![image](uploads/90fe281b8efa251ba1bc9857c4d5b522/image.png)
 
 ![image](uploads/094ed63c8261fbfe41d4478d8d39cd3a/image.png)
@@ -14,6 +25,8 @@
 
 ![image](uploads/c855f8118c588cc3630bfddec53621b4/image.png)
 
+# Je gère les droits et les utilisateurs <a name="droits"></a>
+
 ![image](uploads/42c144b3e33c0ca5148d481da92a2872/image.png)
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
@@ -21,6 +34,8 @@
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
 ![image](uploads/ee2c26c3fa5384324e050ecf8efa823f/image.png)
+
+# Je configure l'intégration continue <a name="ci"></a>
 
 ![image](uploads/713f444e4a57f7010b31152d7cf26d0b/image.png)
 
@@ -35,6 +50,8 @@
 ![image](uploads/229afa7efce2cd7d3594c428dc042d5f/image.png)
 
 ![image](uploads/104a08e90fb0286fc50a5771ecc73287/image.png)
+
+## Je déclare un runner dédié à mon projet
 
 ![image](uploads/5e43f29cc64a8e186045960dfc9814f9/image.png)
 
@@ -53,6 +70,8 @@
 ![image](uploads/9178e79e3dbcea6c56741d9d2efdf7d0/image.png)
 
 ![image](uploads/f18331a0d3b98cd036046ba59b4bf10c/image.png)
+
+## Je modifie mon runner dédié
 
 ![image](uploads/3a8ad7733745dc5ffc86a2a180237e4b/image.png)
 
