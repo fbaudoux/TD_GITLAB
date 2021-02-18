@@ -35,11 +35,11 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/ee2c26c3fa5384324e050ecf8efa823f/image.png)
 
-# Je configure l'intégration continue <a name="ci"></a>
-
 ![image](uploads/713f444e4a57f7010b31152d7cf26d0b/image.png)
 
 ![image](uploads/ffa9101a6ee9a5ce6df86bb4dd599cc7/image.png)
+
+# Je configure l'intégration continue <a name="ci"></a>
 
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
