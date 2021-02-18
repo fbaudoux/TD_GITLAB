@@ -25,11 +25,13 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/c855f8118c588cc3630bfddec53621b4/image.png)
 
-# Je gère les droits et les utilisateurs <a name="droits"></a>
+
 
 ![image](uploads/42c144b3e33c0ca5148d481da92a2872/image.png)
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
+
+# Je gère les droits et les utilisateurs <a name="droits"></a>
 
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
@@ -51,7 +53,6 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/104a08e90fb0286fc50a5771ecc73287/image.png)
 
-## Je déclare un runner dédié à mon projet
 
 ![image](uploads/5e43f29cc64a8e186045960dfc9814f9/image.png)
 
@@ -59,11 +60,15 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/368a73d84ab8ae8cd06bdcabb2f03e2f/image.png)
 
+## Je déclare un runner dédié à mon projet
+
 ![image](uploads/3d7ef2e38cda600946e3ed7876b48c1a/image.png)
 
 ![image](uploads/b0d4223e9e560f8c9178142c70d1875f/image.png)
 
 ![image](uploads/d58388fbde299b576830bf44f7c1af9e/image.png)
+
+## J'utilise un vrai code source
 
 ![image](uploads/570cf982d2fb3e65fbb72d536858cf33/image.png)
 
