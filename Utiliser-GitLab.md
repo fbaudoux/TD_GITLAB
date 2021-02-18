@@ -4,11 +4,13 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 
 # Table des matières
-1. [Je commence un projet](#projet)
-2. [Je gère les droits et les utilisateurs](#projet)
-3. [Je configure l'intégration continue](#ci)
+1. [Nouveau projet](#projet)
+2. [Déclaration des droits et utilisateurs](#droits)
+3. [Intégration continue](#ci)
+4. [Développement](#planning)
+5. [Bug tracking](#bug)
 
-# Je commence un projet <a name="introduction"></a>
+# Nouveau projet <a name="introduction"></a>
 ![image](uploads/90fe281b8efa251ba1bc9857c4d5b522/image.png)
 
 ![image](uploads/094ed63c8261fbfe41d4478d8d39cd3a/image.png)
@@ -31,7 +33,7 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
 
-# Je gère les droits et les utilisateurs <a name="droits"></a>
+# Déclaration des droits et utilisateurs <a name="droits"></a>
 
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
@@ -41,7 +43,7 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/ffa9101a6ee9a5ce6df86bb4dd599cc7/image.png)
 
-# Je configure l'intégration continue <a name="ci"></a>
+# Intégration continue <a name="ci"></a>
 
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
@@ -97,3 +99,7 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 ![image](uploads/ff55c30c4cda77720fb1a116624912a0/image.png)
 
 ![image](uploads/75f5be9dc79078e189d56da71137d8f1/image.png)
+
+# Développement <a name="dev"></a>
+
+# Bug Tracking <a name="bug"></a>
