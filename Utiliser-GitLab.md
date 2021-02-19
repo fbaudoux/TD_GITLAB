@@ -214,9 +214,28 @@ Quand je retourne dans la forge, je vois mes fichiers sources.
 
 ![image](uploads/9178e79e3dbcea6c56741d9d2efdf7d0/image.png)
 
+## Je modifie mon runner dédié
+
+Le problème maintenant, c'est que mon fichier de CI ne correspond plus à ce que je veux faire
 ![image](uploads/f18331a0d3b98cd036046ba59b4bf10c/image.png)
 
-## Je modifie mon runner dédié
+Je le modifie donc pour qu'il puisse compiler un construire un projet SpringBoot
+
+```
+image: java:8
+
+stages:
+  - build
+build:
+  stage: build
+  script: 
+    - chmod +x ./gradlew
+    - ./gradlew build -x test
+  artifacts:
+    paths:
+      - build/libs/demo-0.0.1-SNAPSHOT.jar
+```
+
 
 ![image](uploads/3a8ad7733745dc5ffc86a2a180237e4b/image.png)
 
