@@ -272,9 +272,22 @@ La forge va nous aider dans le processus de développement.
 On peut par exemple déclarer les sprints de dév via la notion de milestone.
 Pour cela, il faut avoir activé l'option suivante :  
 
+![image](uploads/34d43c19bdc1b8bcc880e349af93dab6/image.png)
+
+Cela a pour effet de faire apparaitre le menu "suivant "issues" qui permet d'accèder aux milestones.
+
+![image](uploads/a36c5ee64d383b12f3b43c50e2a68e04/image.png)
+
+Nous allons définir notre premier sprint comme étant un milestone.
+Nous avons simplement à indiquer des dates de début et de fin ainsi qu'un nom et nous pouvons créér un nouveau milestone.
+
 ![image](uploads/6516280c560b9121ee60edb6a0f48639/image.png)
 
+Il apparait alors dans la liste et il est indiqué comme étant complet à 0%
+
 ![image](uploads/9892211a083df09a30b3453e02a99f3c/image.png)
+
+Nous comprenons que cette notion va nous permettre d'avoir une idée de l'avancement de notre sprint.
 
 ![image](uploads/133d282af70c259bed8f3653378b7736/image.png)
 
