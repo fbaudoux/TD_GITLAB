@@ -50,7 +50,7 @@ Au fur et à mesure, nous viendrons réactiver ce qui nous sera nécessaire.
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
 
-Il est à noter que les fonctions peut être activés / désactivées en fonction des utilisateurs (membre / non membre de l'équipe ) pour les projets donc la visibilité est "Internal" 
+Il est à noter que les fonctions peut être activés / désactivées en fonction des utilisateurs (membre / non membre de l'équipe ) pour les projets donc la visibilité est "Public" ou "Internal" 
 
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
@@ -68,10 +68,6 @@ On peut déclarer des utilisateurs autorisés à intervenir sur les projets et l
 ![image](uploads/d672cd0edc7fce2df1048e473a3790b4/image.png)
 
 Cette notion de rôle est très importante dans la mesure on l'on va pouvoir autoriser certaines actions de la forge uniquement à certains rôles.
-
-
-
-
 
 ![image](uploads/ffa9101a6ee9a5ce6df86bb4dd599cc7/image.png)
 
