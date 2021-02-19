@@ -161,6 +161,27 @@ La solution c'est de déclarer un runner spécifique à notre projet.
 
 ## Je déclare un runner dédié à mon projet
 
+Je suis les instructions données via les liens affichés dans la forge et je vais déclarer un runner "docker" sur ma machine.
+
+Je crée un volume docker pour avoir un persistence de ma configuration
+
+```
+docker volume create gitlab-runner-config
+
+```
+
+Je lance l'image docker du runner en précisant mon volume et en demandant l'enregsitrement d'un nouveau runner
+
+```
+docker run --rm -it -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest register
+```
+
+Enfin , je lance le runner à partir de la configuration qui se trouve dans mon volume docker
+```
+docker run -d --name gitlab-runner --restart always -v gitlab-runner-config:/etc/gitlab-runner  gitlab/gitlab-runner:latest run
+```
+
+
 ![image](uploads/3d7ef2e38cda600946e3ed7876b48c1a/image.png)
 
 ![image](uploads/b0d4223e9e560f8c9178142c70d1875f/image.png)
