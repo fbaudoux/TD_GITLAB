@@ -236,13 +236,6 @@ build:
       - build/libs/demo-0.0.1-SNAPSHOT.jar
 ```
 
-
-![image](uploads/3a8ad7733745dc5ffc86a2a180237e4b/image.png)
-
-![image](uploads/691402709a826f836eb1b7b31d5d1087/image.png)
-
-![image](uploads/56771dd4797105eda44f29f31673dcf6/image.png)
-
 ![image](uploads/d7d4dd06926e85877540ff8878a73db7/image.png)
 
 ![image](uploads/0e834fa4f99f6d3029494153a58a7584/image.png)
