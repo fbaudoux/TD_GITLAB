@@ -288,6 +288,12 @@ Il apparait alors dans la liste et il est indiqué comme étant complet à 0%
 ![image](uploads/9892211a083df09a30b3453e02a99f3c/image.png)
 
 Nous comprenons que cette notion va nous permettre d'avoir une idée de l'avancement de notre sprint.
+Mais comment va t on définir ce qui constitue le sprint ? Il suffit de cliquer sur la ligne du sprint pour commencer à comprendre. 
+La forge affiche alors :
+
+![image](uploads/bb3ca25b789bfebd801d1d59e6c3b2a6/image.png)
+
+Les éléments qui vont constituer un sprint sont les "issues". On va pouvoir les affecter à un milestone et l'avancement du milestone sera fonction du nom d'issues qui ont été traitées.
 
 ![image](uploads/133d282af70c259bed8f3653378b7736/image.png)
 
