@@ -376,3 +376,16 @@ Quand le merge a été réalisé, l'issue est fermée et le milestone avance
 ![image](uploads/69d8b63ad3c7d6c34a57400fbb60a920/image.png)
 
 ![image](uploads/dcaecab6a2ee7c685eff1c0b160fbb6f/image.png)
+
+## Release
+
+Le sprint va se terminer et il va aboutir à la sortie de la version 1.0 alpha du produit.
+On peut donc déclarer dans la forge que l'on sortir une release associée à notre milestone.
+
+Il faut passer par le menu suivant pour demander une nouvelle release.
+
+![image](uploads/6f5307764ecc81b6d65d4eb23e84d501/image.png)
+
+Dans l'écran de création de la release, on peut associer un milestone.
+
+![image](uploads/e55087156981323a97b2a9c454c1081e/image.png)
