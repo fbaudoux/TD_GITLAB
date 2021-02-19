@@ -350,9 +350,11 @@ Et quand j'ai réalisé mon commit sur cette branche , je peux demander un "merg
 
 ![image](uploads/c62fa109d6fa64efdbea8f87bb745e50/image.png)
 
-![image](uploads/1a0d0b0bf3847386acda5470bdba805f/image.png)
+Dans le menu sur la gauche , on voit apparaitre un "merge request"
 
 ![image](uploads/8d35bf8d05ac689fd5502e8810590581/image.png)
+
+Lorsque j'ouvre le "merge request" , j'ai la possibilité de ramener la fonction développée vers la branche master ( ou une autre branche selon la configuration du projet )
 
 ![image](uploads/6b06b354aed99014a62d1911efc045fb/image.png)
 
