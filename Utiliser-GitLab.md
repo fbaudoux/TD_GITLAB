@@ -308,13 +308,19 @@ Dans l'exemple suivant, on voit qu'il y a 5 "issues" mais uniquement 2 sont ratt
 
 Pour rattacher une issue à un "milestone", il faut cliquer sur son nom dans la liste, cela ouvre une page de définition de l'issue et il y a une partie sur la droite qui permet de choisir un milestone
 
-![image](uploads/19f1cd1fa197a8613a0e61f7d5cf9389/image.png)
-
 ![image](uploads/db30fcde808bf92a80c3f2d82092091b/image.png)
+
+C'est également depuis cet écran que l'on peut assigner l'issue à un utilisateur 
 
 ![image](uploads/e26d091b29102e852bc31b8f9edd396e/image.png)
 
+Quand une "issue" est affecté à un utilisateur, elle est considérée comme "en cours". On peut le voir dans le détail du milestone. 
+Dans l'écran suivant, on voit que la fonction 1 est en cours et qu'elle est attribuée à mon utilisateur.
+
 ![image](uploads/53707f8034f85a6170bbd622ae5a9b8c/image.png)
+
+
+
 
 ![image](uploads/690401b6a747e6ef62e1b20a19841ad8/image.png)
 
