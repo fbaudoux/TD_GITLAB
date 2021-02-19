@@ -370,4 +370,9 @@ Mais j'ai également la possibilité de faire "une revue" des commits et de fair
 Celui qui a demandé le merge request sera prévenu par mail qu'il y a des revues sur ces commits et pourra alors faire le nécessaire.
 
 Quand le merge a été réalisé, l'issue est fermée et le milestone avance
-![image](uploads/3ce14090287812e289da2a2cc242fb7a/image.png)
+
+![image](uploads/5993422a6781907f375bb781c16efcc2/image.png)
+
+![image](uploads/69d8b63ad3c7d6c34a57400fbb60a920/image.png)
+
+![image](uploads/dcaecab6a2ee7c685eff1c0b160fbb6f/image.png)
