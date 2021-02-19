@@ -350,6 +350,9 @@ Et quand j'ai réalisé mon commit sur cette branche , je peux demander un "merg
 
 ![image](uploads/c62fa109d6fa64efdbea8f87bb745e50/image.png)
 
+Il est indiqué dans la fenêtre de définition du merge request que l'issue sera automatiquement fermée quand le merge sera réalisé.
+![image](uploads/ae26cbe853e916227be31ff675727ae4/image.png)
+
 Dans le menu sur la gauche , on voit apparaitre un "merge request"
 
 ![image](uploads/8d35bf8d05ac689fd5502e8810590581/image.png)
