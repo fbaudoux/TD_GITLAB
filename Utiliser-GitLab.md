@@ -236,9 +236,16 @@ build:
       - build/libs/demo-0.0.1-SNAPSHOT.jar
 ```
 
-![image](uploads/d7d4dd06926e85877540ff8878a73db7/image.png)
+Je supprime mon runner spécifique et je réactive le runner partagé pour vérifier que le pipeline fonctionne. On peut voir la ligne de pipeline qui s'est executé avec succès.
+Sur la ligne, on trouve une icone pour télécharger l'artefact
 
 ![image](uploads/0e834fa4f99f6d3029494153a58a7584/image.png)
+
+On peut également voir le détail de l'exécution 
+
+![image](uploads/d7d4dd06926e85877540ff8878a73db7/image.png)
+
+Il ne nous reste plus qu'a reconfigurer notre runner dédié.
 
 ![image](uploads/ed91e003ddbac4b548abc66b46854fb5/image.png)
 
