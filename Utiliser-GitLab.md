@@ -33,14 +33,14 @@ Pour le moment, nous allons nous intéresser un peu au menu de gauche. Dans ce m
 
 D'ailleurs, pour y voir plus clair, nous allons commencer par faire disparaitre quelques fonctions que nous n'utiliserons pas pour le moment.
 Pour faire ça, on doit se rendre dans le menu "Settings"
+![image](uploads/0dd6bf18b75a1e124d81ddc729c429e8/image.png)
 
-![image](uploads/6080b1e5b7744b89e5081183c3927a6c/image.png)
 
 On va retrouver divers rubriques. La rubrique "Général" nous permet de donner quelques informations supplémentaires sur le projet et de lui associer une icône
 
+![image](uploads/6080b1e5b7744b89e5081183c3927a6c/image.png)
 
 
-![image](uploads/0dd6bf18b75a1e124d81ddc729c429e8/image.png)
 
 ![image](uploads/ef33eaf5e86cb74e23925b7f6ef738aa/image.png)
 
