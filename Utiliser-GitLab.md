@@ -249,13 +249,21 @@ Il ne nous reste plus qu'a reconfigurer notre runner dédié.
 
 ![image](uploads/ed91e003ddbac4b548abc66b46854fb5/image.png)
 
+Vérifier que mon runner est bien connecté à la forge
+
 ![image](uploads/cea035cd2b19a0e8411bf1dd1c438276/image.png)
+
+A nouveau interdire les runners partagés
 
 ![image](uploads/bb33d88f52219f234b30ba68015a768f/image.png)
 
 ![image](uploads/ff55c30c4cda77720fb1a116624912a0/image.png)
 
+Lancer un pipe line et vérifier que tout ce passe bien.
+
 ![image](uploads/75f5be9dc79078e189d56da71137d8f1/image.png)
+
+Nous sommes prêts à développer !!
 
 # Développement <a name="dev"></a>
 ![image](uploads/6516280c560b9121ee60edb6a0f48639/image.png)
