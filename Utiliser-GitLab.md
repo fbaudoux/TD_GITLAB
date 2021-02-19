@@ -52,6 +52,8 @@ Au fur et à mesure, nous viendrons réactiver ce qui nous sera nécessaire.
 
 # Déclaration des droits et utilisateurs <a name="droits"></a>
 
+Parmi les fonctions non optionnelles, on trouve la gestion des utilisateurs à laquelle on accède via menu à gauche "Members".   
+
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
 ![image](uploads/ee2c26c3fa5384324e050ecf8efa823f/image.png)
