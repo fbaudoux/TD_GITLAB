@@ -321,17 +321,16 @@ Dans l'écran suivant, on voit que la fonction 1 est en cours et qu'elle est att
 
 ![image](uploads/53707f8034f85a6170bbd622ae5a9b8c/image.png)
 
-
-
-
-![image](uploads/690401b6a747e6ef62e1b20a19841ad8/image.png)
-
-
 ![image](uploads/42b6b54044532f3b54a5a5c377d0d712/image.png)
+
+Je simule le développement de la fonction 1 en faisant un "commit" qui crée un fichier nommé "fonction 1" 
 
 ![image](uploads/48ac8a0a30da9d1c321680fbaf9cfbec/image.png)
 
 ![image](uploads/909fa4db6c8d7c78f8a23af7431b3ac0/image.png)
+
+Cela ne suffit pas à faire avancer le milestone car l'issue n'est pas fermée automatiquement.
+Il faut fermer manuellement l'issue 
 
 ![image](uploads/8301e1f2a4b487df9c62e964fcadf086/image.png)
 
