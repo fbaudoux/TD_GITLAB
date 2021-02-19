@@ -190,15 +190,27 @@ Sous GitLab , désormais, on doit voir un nouveau runner dédié à notre projet
 
 Pour être certain que c'est ce runner spécifique et pas celui partagé qui va être executé, je peux demander à ne pas utiliser les runners partagés pour mon projet.
 
-![image](uploads/b0d4223e9e560f8c9178142c70d1875f/image.png)
-
-
+![image](uploads/03a561549aa0409f27ad33c1548f322c/image.png)
 
 ## J'utilise un vrai code source
 
+Le script de CI de base nous a permis de découvrir le mécanisme mais si on veut vraiment compiler un projet et produire un artefact, il nous faut du code source.
+
+Je commence donc par cloner mon repository.
+
 ![image](uploads/d58388fbde299b576830bf44f7c1af9e/image.png)
 
+Je me rend sur https://start.spring.io/ et je choisi la configuration suivante :
+
+![image](uploads/3fd36a03ad707164f4927e7638353181/image.png)
+
+Je demander à télécharger le fichier (demo.zip) que je décompresse dans le répertoire git de mon projet.
+
+J'ajoute tous les nouveaux fichiers, commit , push .
+
 ![image](uploads/570cf982d2fb3e65fbb72d536858cf33/image.png)
+
+Quand je retourne dans la forge, je vois mes fichiers sources.
 
 ![image](uploads/9178e79e3dbcea6c56741d9d2efdf7d0/image.png)
 
