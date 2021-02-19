@@ -21,24 +21,24 @@ Je le nomme "configGitLab" et je le déclare pour un projet privé
 
 Comme il n'y a aucun fichier source, GitLab ne m'affiche pas grand chose, donc je demande à créer le fichier README.md en utilisant l'éditeur en ligne
 
-
+![image](uploads/4d2da6a48bc123fb0517fbb9ed6e1bd1/image.png)
 
 Une fois ce fichier crée, GitLab commence à m'afficher une page avec divers informations pratiques (nombre de commits , de branches, taille du stockage ...) et des raccourcis permettant notamment de configurer l'intégration continue. Nous y reviendrons plus tard. 
 
-![image](uploads/4d2da6a48bc123fb0517fbb9ed6e1bd1/image.png)
+![image](uploads/6974e9009b28c34ef7f229dc795d6580/image.png)
 
 Pour le moment, nous allons nous intéresser un peu au menu de gauche. Dans ce menu, on va trouver toutes les fonctions mise à disposition par la forge pour notre projet. Il y en a trop pour être couvertes dans un seul TD, nous allons donc nous focaliser sur les plus utiles.
 
-![image](uploads/6974e9009b28c34ef7f229dc795d6580/image.png)
+![image](uploads/4ae09a691f5b9ed1f53b2e1316e1ac61/image.png)
 
 D'ailleurs, pour y voir plus clair, nous allons commencer par faire disparaitre quelques fonctions que nous n'utiliserons pas pour le moment.
 Pour faire ça, on doit se rendre dans le menu "Settings"
 
-![image](uploads/4ae09a691f5b9ed1f53b2e1316e1ac61/image.png)
+![image](uploads/6080b1e5b7744b89e5081183c3927a6c/image.png)
 
 On va retrouver divers rubriques. La rubrique "Général" nous permet de donner quelques informations supplémentaires sur le projet et de lui associer une icône
 
-![image](uploads/6080b1e5b7744b89e5081183c3927a6c/image.png)
+
 
 ![image](uploads/0dd6bf18b75a1e124d81ddc729c429e8/image.png)
 
