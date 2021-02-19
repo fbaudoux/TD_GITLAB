@@ -340,6 +340,9 @@ L'avancement du milestone se met à jour.
 
 ![image](uploads/5fd3f65c7f60276c84c0873fd259388b/image.png)
 
+Il y a une manière de faire qui automatise la fermeture des "issues". Il faut pour cela que la fonction "merge request" soit activée.
+
+SI je crée une nouvelle issue associée à mon Sprint 0.
 ![image](uploads/9d83b778c965b598304d16081c0f6843/image.png)
 
 ![image](uploads/1a0d0b0bf3847386acda5470bdba805f/image.png)
