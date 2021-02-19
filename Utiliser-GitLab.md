@@ -176,13 +176,18 @@ Je lance l'image docker du runner en précisant mon volume et en demandant l'enr
 docker run --rm -it -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest register
 ```
 
+![image](uploads/3d7ef2e38cda600946e3ed7876b48c1a/image.png)
+
 Enfin , je lance le runner à partir de la configuration qui se trouve dans mon volume docker
 ```
 docker run -d --name gitlab-runner --restart always -v gitlab-runner-config:/etc/gitlab-runner  gitlab/gitlab-runner:latest run
 ```
 
 
-![image](uploads/3d7ef2e38cda600946e3ed7876b48c1a/image.png)
+Sous GitLab , désormais, on doit voir un nouveau runner dédié à notre projet
+
+![image](uploads/cea035cd2b19a0e8411bf1dd1c438276/image.png)
+
 
 ![image](uploads/b0d4223e9e560f8c9178142c70d1875f/image.png)
 
