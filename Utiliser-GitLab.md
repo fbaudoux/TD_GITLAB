@@ -188,12 +188,15 @@ Sous GitLab , désormais, on doit voir un nouveau runner dédié à notre projet
 
 ![image](uploads/cea035cd2b19a0e8411bf1dd1c438276/image.png)
 
+Pour être certain que c'est ce runner spécifique et pas celui partagé qui va être executé, je peux demander à ne pas utiliser les runners partagés pour mon projet.
 
 ![image](uploads/b0d4223e9e560f8c9178142c70d1875f/image.png)
 
-![image](uploads/d58388fbde299b576830bf44f7c1af9e/image.png)
+
 
 ## J'utilise un vrai code source
+
+![image](uploads/d58388fbde299b576830bf44f7c1af9e/image.png)
 
 ![image](uploads/570cf982d2fb3e65fbb72d536858cf33/image.png)
 
