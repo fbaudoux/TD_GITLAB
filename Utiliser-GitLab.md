@@ -131,8 +131,18 @@ Si je clique sur la ligne du pipeline, je vais voir le détail des taches
 
 ![image](uploads/d5154a8d2b0b6540cf51e68244a61d1b/image.png)
 
+Le script d'exemple et la documentation de GitLab nous permettent rapidement de comprendre comment écrire des scripts simple.
+Mais nous comprenons également que ces scripts permettent d'écrire des scripts très puissants et donc plus compliqués à maitriser.
+
+https://docs.gitlab.com/ee/ci/quick_start/
+
 ![image](uploads/368a73d84ab8ae8cd06bdcabb2f03e2f/image.png)
 
+
+## Qui executent les scripts ? La forge ?
+
+En fait pas vraiment, la forge orchestre mais n'execute pas les scripts.
+Pour cela, il y a les workers.
 
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
