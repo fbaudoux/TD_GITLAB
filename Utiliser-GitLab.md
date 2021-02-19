@@ -310,11 +310,13 @@ Pour rattacher une issue à un "milestone", il faut cliquer sur son nom dans la 
 
 ![image](uploads/db30fcde808bf92a80c3f2d82092091b/image.png)
 
-C'est également depuis cet écran que l'on peut assigner l'issue à un utilisateur 
-
 ![image](uploads/e26d091b29102e852bc31b8f9edd396e/image.png)
 
-Quand une "issue" est affecté à un utilisateur, elle est considérée comme "en cours". On peut le voir dans le détail du milestone. 
+C'est également depuis cet écran que l'on peut assigner l'issue à un utilisateur 
+
+![image](uploads/cca33a3a238ef728d934c3c4d9d1a6f7/image.png)
+
+Quand une "issue" est affectée à un utilisateur, elle est considérée comme "en cours". On peut le voir dans le détail du milestone. 
 Dans l'écran suivant, on voit que la fonction 1 est en cours et qu'elle est attribuée à mon utilisateur.
 
 ![image](uploads/53707f8034f85a6170bbd622ae5a9b8c/image.png)
@@ -324,7 +326,6 @@ Dans l'écran suivant, on voit que la fonction 1 est en cours et qu'elle est att
 
 ![image](uploads/690401b6a747e6ef62e1b20a19841ad8/image.png)
 
-![image](uploads/cca33a3a238ef728d934c3c4d9d1a6f7/image.png)
 
 ![image](uploads/42b6b54044532f3b54a5a5c377d0d712/image.png)
 
