@@ -142,14 +142,22 @@ https://docs.gitlab.com/ee/ci/quick_start/
 ## Qui executent les scripts ? La forge ?
 
 En fait pas vraiment, la forge orchestre mais n'execute pas les scripts.
-Pour cela, il y a les workers.
+Pour cela, il y a les "workers"Runners".
+On peut voir ce fonctionnement en allant dans la configuration de la CI/CD
 
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
+Il y a un sous menu "Runners" qui explique le concept de runner
 ![image](uploads/dd467b966c0d7446825e9d435361fa87/image.png)
 
+En dépliant le menu on a la liste des différents runners accessibles pour notre projet.
 ![image](uploads/587c17c4c692e76538b77287c04d321d/image.png)
 
+On constate qu'il y a un runner partagé par potentiellement tous les projets et qui a été mis en place par l'IUT. C'est le runner qui s'appelle "runner-forge".
+
+Le problème c'est qu'il n'y en a qu'un seul. On comprend vite qu'il va devoir partager son temps d'exécution entre tous les pipelines de tous les projets de la forge ! 
+
+La solution c'est de déclarer un runner spécifique à notre projet.
 
 ## Je déclare un runner dédié à mon projet
 
