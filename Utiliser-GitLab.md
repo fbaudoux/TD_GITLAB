@@ -125,9 +125,9 @@ deploy-prod:
 
 Dès que j'ai fait un commit sur ce fichier, si je retourne dans le menu CI/CD, je dois voir un pipeline en cours d'exécution.
 
-![image](uploads/104a08e90fb0286fc50a5771ecc73287/image.png)
-
 ![image](uploads/5e43f29cc64a8e186045960dfc9814f9/image.png)
+
+Si je clique sur la ligne du pipeline, je vais voir le détail des taches
 
 ![image](uploads/d5154a8d2b0b6540cf51e68244a61d1b/image.png)
 
