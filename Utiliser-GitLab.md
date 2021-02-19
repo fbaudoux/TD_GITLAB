@@ -88,6 +88,27 @@ Si je sélectionne ce menu, j'ai la possibilité de lancer un intégration conti
 ![image](uploads/6d8a20d106537b4bc115c78cd9598c87/image.png)
 
 Je n'ai pas défini pource projet, comment la forge devait construire le projet.
+Pour établir cette définition, je retourne sur la page principale du projet ( via le menu Project Overview ) et je peux cliquer sur le raccourci "Set up CI/CD"
+
+J'obtiens un écran de ce type 
+
+![image](uploads/75a5bffcae7ddcdcb748a652cc8512f4/image.png)
+
+La configuration est un fichier yaml , qui se situe dans le repository du projet.
+
+![image](uploads/229afa7efce2cd7d3594c428dc042d5f/image.png)
+
+
+
+
+![image](uploads/104a08e90fb0286fc50a5771ecc73287/image.png)
+
+![image](uploads/5e43f29cc64a8e186045960dfc9814f9/image.png)
+
+![image](uploads/d5154a8d2b0b6540cf51e68244a61d1b/image.png)
+
+![image](uploads/368a73d84ab8ae8cd06bdcabb2f03e2f/image.png)
+
 
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
@@ -95,16 +116,6 @@ Je n'ai pas défini pource projet, comment la forge devait construire le projet.
 
 ![image](uploads/587c17c4c692e76538b77287c04d321d/image.png)
 
-![image](uploads/229afa7efce2cd7d3594c428dc042d5f/image.png)
-
-![image](uploads/104a08e90fb0286fc50a5771ecc73287/image.png)
-
-
-![image](uploads/5e43f29cc64a8e186045960dfc9814f9/image.png)
-
-![image](uploads/d5154a8d2b0b6540cf51e68244a61d1b/image.png)
-
-![image](uploads/368a73d84ab8ae8cd06bdcabb2f03e2f/image.png)
 
 ## Je déclare un runner dédié à mon projet
 
