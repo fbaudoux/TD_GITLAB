@@ -50,15 +50,28 @@ Au fur et à mesure, nous viendrons réactiver ce qui nous sera nécessaire.
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
 
-# Déclaration des droits et utilisateurs <a name="droits"></a>
-
-Parmi les fonctions non optionnelles, on trouve la gestion des utilisateurs à laquelle on accède via menu à gauche "Members".   
+Il est à noter que les fonctions peut être activés / désactivées en fonction des utilisateurs (membre / non membre de l'équipe ) pour les projets donc la visibilité est "Internal" 
 
 ![image](uploads/fb81b0596aae5279a4a6bace376688b4/image.png)
 
 ![image](uploads/ee2c26c3fa5384324e050ecf8efa823f/image.png)
 
 ![image](uploads/713f444e4a57f7010b31152d7cf26d0b/image.png)
+
+
+# Déclaration des droits et utilisateurs <a name="droits"></a>
+
+Parmi les fonctions non optionnelles, on trouve la gestion des utilisateurs à laquelle on accède via menu à gauche "Members".  
+
+On peut déclarer des utilisateurs autorisés à intervenir sur les projets et leur assigner des rôles.
+
+![image](uploads/d672cd0edc7fce2df1048e473a3790b4/image.png)
+
+Cette notion de rôle est très importante dans la mesure on l'on va pouvoir autoriser certaines actions de la forge uniquement à certains rôles.
+
+
+
+
 
 ![image](uploads/ffa9101a6ee9a5ce6df86bb4dd599cc7/image.png)
 
