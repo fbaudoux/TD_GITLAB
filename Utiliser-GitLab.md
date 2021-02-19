@@ -388,4 +388,11 @@ Il faut passer par le menu suivant pour demander une nouvelle release.
 
 Dans l'écran de création de la release, on peut associer un milestone.
 
-![image](uploads/e55087156981323a97b2a9c454c1081e/image.png)
+![image](uploads/ac550edc4b176107280f56a32481f89c/image.png)
+
+L'avancement de la release correspondra à l'avancement du milestone.
+
+![image](uploads/f93c2fd5d23383c5145955fab7b52919/image.png)
+
+A noter, une release, n'est qu'un tag posé sur le repository.
+Si on supprime le tag, on supprime la release.
