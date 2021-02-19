@@ -346,7 +346,9 @@ Si je crée une nouvelle issue associée à mon Sprint 0, j'ai la possibilité (
 
 ![image](uploads/87488e477c34636fe2be923ab6945ac9/image.png)
 
+Et quand j'ai réalisé mon commit sur cette branche , je peux demander un "merge request"
 
+![image](uploads/c62fa109d6fa64efdbea8f87bb745e50/image.png)
 
 ![image](uploads/1a0d0b0bf3847386acda5470bdba805f/image.png)
 
