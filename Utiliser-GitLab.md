@@ -355,11 +355,15 @@ Il est indiqué dans la fenêtre de définition du merge request que l'issue ser
 
 Dans le menu sur la gauche , on voit apparaitre un "merge request"
 
+![image](uploads/6b06b354aed99014a62d1911efc045fb/image.png)
+
 ![image](uploads/8d35bf8d05ac689fd5502e8810590581/image.png)
 
 Lorsque j'ouvre le "merge request" , j'ai la possibilité de ramener la fonction développée vers la branche master ( ou une autre branche selon la configuration du projet )
 
-![image](uploads/6b06b354aed99014a62d1911efc045fb/image.png)
+![image](uploads/7f0de15b0d864d2d3380f65678d3b084/image.png)
+
+
 
 ![image](uploads/052f15e7fc66ecaae207afd1e36e2da9/image.png)
 
