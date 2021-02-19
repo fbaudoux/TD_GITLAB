@@ -126,5 +126,9 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 
 ![image](uploads/48ac8a0a30da9d1c321680fbaf9cfbec/image.png)
 
+![image](uploads/909fa4db6c8d7c78f8a23af7431b3ac0/image.png)
 
+![image](uploads/8301e1f2a4b487df9c62e964fcadf086/image.png)
+
+![image](uploads/5fd3f65c7f60276c84c0873fd259388b/image.png)
 
