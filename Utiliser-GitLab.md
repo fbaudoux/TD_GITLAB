@@ -80,6 +80,15 @@ Si un utilisateur n'a pas les droits pour modifier une branche, il devra travail
 
 # Intégration continue <a name="ci"></a>
 
+Nous avons un projet et des utilisateurs déclarés, la dernière étape avant de commencer les sprints c'est de configurer l'intégration continue.
+Une fois que j'ai reactivé la fonction dans le projet, j'ai le menu "CI/CD" qui apparait à gauche
+
+Si je sélectionne ce menu, j'ai la possibilité de lancer un intégration continue en demandant "run pipeline" , mais je vais obtenir une erreur du type :  
+
+![image](uploads/6d8a20d106537b4bc115c78cd9598c87/image.png)
+
+Je n'ai pas défini pource projet, comment la forge devait construire le projet.
+
 ![image](uploads/cb94131776591d02a300a3604491ed01/image.png)
 
 ![image](uploads/dd467b966c0d7446825e9d435361fa87/image.png)
