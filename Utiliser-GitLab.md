@@ -43,12 +43,10 @@ On va retrouver divers rubriques. La rubrique "Général" nous permet de donner 
 Cela commence a devenir plus intéressant dans le sous menu : "Visibility, project features, permissions"
 On peut changer la visibilité du projet mais également cacher toutes les fonctions optionnelles de la forge : Wiki, merge request, intégration continue, ...
 
-![image](uploads/c855f8118c588cc3630bfddec53621b4/image.png)
+![image](uploads/42c144b3e33c0ca5148d481da92a2872/image.png)
 
 D'ailleurs, je cache toutes les fonctions optionnelles et j'obtiens un menu plus simple.
 Au fur et à mesure, nous viendrons réactiver ce qui nous sera nécessaire.
-
-![image](uploads/42c144b3e33c0ca5148d481da92a2872/image.png)
 
 ![image](uploads/23141a7e1057f3b5a4a894b519a84865/image.png)
 
