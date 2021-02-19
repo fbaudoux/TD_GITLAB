@@ -266,6 +266,12 @@ Lancer un pipe line et vérifier que tout ce passe bien.
 Nous sommes prêts à développer !!
 
 # Développement <a name="dev"></a>
+
+La forge va nous aider dans le processus de développement.
+
+On peut par exemple déclarer les sprints de dév via la notion de milestone.
+Pour cela, il faut avoir activé l'option suivante :  
+
 ![image](uploads/6516280c560b9121ee60edb6a0f48639/image.png)
 
 ![image](uploads/9892211a083df09a30b3453e02a99f3c/image.png)
