@@ -31,8 +31,8 @@ Pour le moment, nous allons nous intéresser un peu au menu de gauche. Dans ce m
 
 ![image](uploads/4ae09a691f5b9ed1f53b2e1316e1ac61/image.png)
 
-D'ailleurs, pour y voir plus clair, nous allons commencer par faire disparaitre quelques fonctions que nous n'utiliserons pas pour le moment.
-Pour faire ça, on doit se rendre dans le menu "Settings"
+D'ailleurs, pour y voir plus clair, nous allons commencer par faire disparaitre quelques fonctions que nous n'utiliserons pas pour le moment.  
+Pour faire ça, on doit se rendre dans le menu "Settings"  
 ![image](uploads/0dd6bf18b75a1e124d81ddc729c429e8/image.png)
 
 
