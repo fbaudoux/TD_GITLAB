@@ -12,14 +12,16 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 # Nouveau projet <a name="introduction"></a>
 
 Nous allons commencer par créer un nouveau projet GitLab qui va nous servir de support pour ce TD.
-Je le nomme "configGitLab" et je le déclare pour un projet privé
 
 ![image](uploads/90fe281b8efa251ba1bc9857c4d5b522/image.png)
 
+Je le nomme "configGitLab" et je le déclare pour un projet privé
+
+![image](uploads/094ed63c8261fbfe41d4478d8d39cd3a/image.png)
 
 Comme il n'y a aucun fichier source, GitLab ne m'affiche pas grand chose, donc je demande à créer le fichier README.md en utilisant l'éditeur en ligne
 
-![image](uploads/094ed63c8261fbfe41d4478d8d39cd3a/image.png)
+
 
 Une fois ce fichier crée, GitLab commence à m'afficher une page avec divers informations pratiques (nombre de commits , de branches, taille du stockage ...) et des raccourcis permettant notamment de configurer l'intégration continue. Nous y reviendrons plus tard. 
 
