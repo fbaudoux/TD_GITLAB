@@ -8,7 +8,6 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 2. [Déclaration des droits et utilisateurs](#droits)
 3. [Intégration continue](#ci)
 4. [Développement](#planning)
-5. [Bug tracking](#bug)
 
 # Nouveau projet <a name="introduction"></a>
 ![image](uploads/90fe281b8efa251ba1bc9857c4d5b522/image.png)
@@ -101,5 +100,31 @@ Dans ce TD, nous allons réaliser un ensemble de manipulations sur la forge GitL
 ![image](uploads/75f5be9dc79078e189d56da71137d8f1/image.png)
 
 # Développement <a name="dev"></a>
+![image](uploads/6516280c560b9121ee60edb6a0f48639/image.png)
 
-# Bug Tracking <a name="bug"></a>
+![image](uploads/9892211a083df09a30b3453e02a99f3c/image.png)
+
+![image](uploads/133d282af70c259bed8f3653378b7736/image.png)
+
+![image](uploads/a28b4dc628881828c7f0b4ecf1c44b23/image.png)
+
+![image](uploads/32fe0b434bb0a638e1dcb29f1ac9ec24/image.png)
+
+![image](uploads/19f1cd1fa197a8613a0e61f7d5cf9389/image.png)
+
+![image](uploads/db30fcde808bf92a80c3f2d82092091b/image.png)
+
+![image](uploads/e26d091b29102e852bc31b8f9edd396e/image.png)
+
+![image](uploads/53707f8034f85a6170bbd622ae5a9b8c/image.png)
+
+![image](uploads/690401b6a747e6ef62e1b20a19841ad8/image.png)
+
+![image](uploads/cca33a3a238ef728d934c3c4d9d1a6f7/image.png)
+
+![image](uploads/42b6b54044532f3b54a5a5c377d0d712/image.png)
+
+![image](uploads/48ac8a0a30da9d1c321680fbaf9cfbec/image.png)
+
+
+
