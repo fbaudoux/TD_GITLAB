@@ -68,6 +68,13 @@ On peut déclarer des utilisateurs autorisés à intervenir sur les projets et l
 ![image](uploads/d672cd0edc7fce2df1048e473a3790b4/image.png)
 
 Cette notion de rôle est très importante dans la mesure on l'on va pouvoir autoriser certaines actions de la forge uniquement à certains rôles.
+C'est le cas en particulier pour la gestion des branches.  
+Via le menu Settings - Repository, on peut accèder à la sous catégorie "Protected branch"
+
+![image](uploads/0d6bc18c7f7bf7762c8abea961a6ba18/image.png)
+
+Dans cet écran, on va être capable de définir quels rôles ont le droit de modifier quelles branches.
+Si un utilisateur n'a pas les droits pour modifier une branche, il devra travailler dans une autre branche et demander à intégrer son travail via une "merge request" ( si la fonction est laissée active )
 
 ![image](uploads/ffa9101a6ee9a5ce6df86bb4dd599cc7/image.png)
 
