@@ -293,13 +293,20 @@ La forge affiche alors :
 
 ![image](uploads/bb3ca25b789bfebd801d1d59e6c3b2a6/image.png)
 
-Les éléments qui vont constituer un sprint sont les "issues". On va pouvoir les affecter à un milestone et l'avancement du milestone sera fonction du nom d'issues qui ont été traitées.
+Les éléments qui vont constituer un sprint sont les "issues". On va pouvoir les affecter à un milestone et l'avancement du milestone sera fonction du nombre d'issues qui ont été traitées.
 
+Pour créer les "issues" qui vont constituer notre Sprint, il faut passer par le menu : 
 ![image](uploads/133d282af70c259bed8f3653378b7736/image.png)
+
+On arrive sur la liste des issues déclarées et on peut en ajouter. Il y a un champ pour choisir le "milestone" auquel sera rattaché l "issue".
 
 ![image](uploads/a28b4dc628881828c7f0b4ecf1c44b23/image.png)
 
+Dans l'exemple suivant, on voit qu'il y a 5 "issues" mais uniquement 2 sont rattachées à notre Sprint 0.
+
 ![image](uploads/32fe0b434bb0a638e1dcb29f1ac9ec24/image.png)
+
+Pour rattacher une issue à un "milestone", il faut cliquer sur son nom dans la liste, cela ouvre une page de définition de l'issue et il y a une partie sur la droite qui permet de choisir un milestone
 
 ![image](uploads/19f1cd1fa197a8613a0e61f7d5cf9389/image.png)
 
