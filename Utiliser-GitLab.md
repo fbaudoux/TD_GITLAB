@@ -259,7 +259,7 @@ A nouveau interdire les runners partagés
 
 ![image](uploads/ff55c30c4cda77720fb1a116624912a0/image.png)
 
-Lancer un pipe line et vérifier que tout ce passe bien.
+Lancer un pipeline et vérifier que tout ce passe bien.
 
 ![image](uploads/75f5be9dc79078e189d56da71137d8f1/image.png)
 
@@ -330,9 +330,13 @@ Je simule le développement de la fonction 1 en faisant un "commit" qui crée un
 ![image](uploads/909fa4db6c8d7c78f8a23af7431b3ac0/image.png)
 
 Cela ne suffit pas à faire avancer le milestone car l'issue n'est pas fermée automatiquement.
-Il faut fermer manuellement l'issue 
+Il faut fermer manuellement l'issue en la choisissant dans la liste et en demandant de la cloturer.
+
+![image](uploads/022531bc3488160814d2c0e1636a9527/image.png)
 
 ![image](uploads/8301e1f2a4b487df9c62e964fcadf086/image.png)
+
+L'avancement du milestone se met à jour.
 
 ![image](uploads/5fd3f65c7f60276c84c0873fd259388b/image.png)
 
