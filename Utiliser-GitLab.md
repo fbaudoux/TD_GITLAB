@@ -249,6 +249,11 @@ Il ne nous reste plus qu'a reconfigurer notre runner dédié.
 
 ![image](uploads/ed91e003ddbac4b548abc66b46854fb5/image.png)
 
+
+```
+docker run -d --name gitlab-runner --restart always -v /var/run/docker.sock:/var/run/docker.sock -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest
+```
+
 Vérifier que mon runner est bien connecté à la forge
 
 ![image](uploads/cea035cd2b19a0e8411bf1dd1c438276/image.png)
